@@ -24,7 +24,7 @@ print(match.group())
 
 match = re.match(r'\d+', list)
 
-print(match.group())
+# print(match.group())
 
 # compile()方法 编译正则表达式
 # 1.提高效率
@@ -40,3 +40,19 @@ print(phone)
 # re.I 忽略大小写
 # re.M 多行匹配
 # re.L 本地化识别
+
+str1 = """
+<div class='张三'>11111</div>
+<div class='里斯'>22222</div>
+<div class='王五'>33333</div>
+<div class='赵六'>44444</div>
+<div class='六七'>55555</div>'
+"""
+
+pattern = re.compile(r"<div class='(?P<name>.*?)'>(?P<list>.*?)</div>", re.S)
+
+result = pattern.finditer(str1)
+
+for i in result:
+  print(i.group('name'))
+  print(i.group('list'))
