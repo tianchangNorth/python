@@ -1,12 +1,12 @@
 import requests
-url = "https://vcs.zijieapi.com/vc/setting?aid=2608&repoId=56081"
+url = "https://openatom.atomgit.com/explore/journalism/detail/459723510017822720"
 count = 0
 
 def main():
   global count 
   r = requests.post(url)
-  print(r.text)
+  print(count)
   count += 1
 
-if __name__ == "__main__":
+while True:
   main()
