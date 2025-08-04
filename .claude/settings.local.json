@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(cd \"D:\\py\\chrome插件\")",
+      "Bash(python get_article.py https://mp.weixin.qq.com/s/ZOd_RYSE45MC4G0feAMfGA -v)",
+      "mcp__ide__executeCode"
+    ],
+    "deny": []
+  }
+}

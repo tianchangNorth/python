@@ -1,0 +1,31 @@
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMjAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmMGYwZjAiIHN0cm9rZT0iI2NjYyIvPgogICAgPHRleHQgeD0iMjAwIiB5PSIxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzY2NiI+CiAgICAgICAg5Zu+54mH6ZO+5o6lOiBodHRwczovL21tYml6LnFwaWMuY24vbW1iaXpfZ2lmL2liVmRRZUhGU1JhdW93U2ljQy4uLgogICAgPC90ZXh0PgogICAgPC9zdmc+)
+
+7月26-29日，2025世界人工智能大会暨人工智能全球治理高级别会议（简称“WAIC 2025”）在上海成功举办。**开放原子开源基金会等多家单位共同发布《国际人工智能开源合作倡议》，共同探讨开源与人工智能融合发展的未来方向。**
+
+**《国际人工智能开源合作倡议》正式发布**
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMjAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmMGYwZjAiIHN0cm9rZT0iI2NjYyIvPgogICAgPHRleHQgeD0iMjAwIiB5PSIxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzY2NiI+CiAgICAgICAg5Zu+54mH6ZO+5o6lOiBodHRwczovL21tYml6LnFwaWMuY24vbW1iaXpfanBnL2liVmRRZUhGU1JhdW93U2ljQy4uLgogICAgPC90ZXh0PgogICAgPC9zdmc+)
+
+开幕式上，**工业和信息化部推动中国—金砖国家人工智能发展与合作中心联合开放原子开源基金会等，共同发布《国际人工智能开源合作倡议》**。鼓励各方以开源为纽带，深化人工智能领域开源合作，携手打造人工智能开源开放生态体系。
+
+当前，由智能化驱动的全球新一轮科技革命和产业变革加速演进，人工智能新技术不断突破、新业态持续涌现、新应用加快拓展，开源已经成为人工智能创新发展的重要引擎。倡议呼吁全球开发者、企业、学术机构与公共部门携手，以开源为纽带，支持产学研各界，共商技术创新路线、共促技术成果赋能、共建开放包容社区、共享时代发展红利。
+
+倡议提出五大方向：**一是引领创新，驱动技术新突破。**鼓励开源合作创新，分享人工智能领域的研究成果、技术经验，缩短创新链路。**二是培育生态，探索共治新路径。**支持开源基金会等开源组织加强沟通交流，打造开放包容的国际开源社区，提供良好的基础设施，促进算力开放、数据共享、算法开源、应用探索，引导人工智能标准共建，促进开源生态与标准化进程协同发展。**三是赋能转化，加速应用新进程。**加速人工智能创新前沿技术成果转化，促进智能体协议等基础规则共识互认，探索从研发端到产业应用的高效落地路径，以开源协作机制弥合技术研发与市场应用间的鸿沟。**四是守护权益，尊重创新新价值。**知识产权保护是确保开源项目可持续发展的关键，尊重各方的知识产权，鼓励行业自律，支持开源许可协议跨境互认和合规使用，促进开源标准制定，保护开发者和社区的合法权益。**五是开放共享，普惠全球新未来。**秉持“智能向善”的理念，鼓励不同国家、不同领域的开发者参与跨界合作，促进多元文化的交流与融合。
+
+**AI开源论坛，共探开源技术赋能行业智能化转型路径**
+
+作为WAIC 2025的重要组成部分，由上海市人工智能行业协会主办，开放原子开源基金会、开放智算产业联盟COIA、Linux Foundation AI & Data联合承办的**“AI开源论坛——以开源塑造行业新智变”同期举行。论坛聚焦人工智能开源生态与技术创新，探讨开源技术如何推动行业智能化转型。**
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMjAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmMGYwZjAiIHN0cm9rZT0iI2NjYyIvPgogICAgPHRleHQgeD0iMjAwIiB5PSIxMDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzY2NiI+CiAgICAgICAg5Zu+54mH6ZO+5o6lOiBodHRwczovL21tYml6LnFwaWMuY24vbW1iaXpfanBnL2liVmRRZUhGU1JhdW93U2ljQy4uLgogICAgPC90ZXh0PgogICAgPC9zdmc+)
+
+**开放原子开源基金会理事长程晓明**
+
+程晓明在致辞中表示，基金会以“孵化明星开源项目、培育新兴产业生态”为目标，已累计为**60余个**开源项目提供从技术孵化到商业落地的全生命周期支持。同时，基金会积极布局人工智能开源项目的引入与孵化，目前已有多个项目签约成为正式孵化项目。未来，在上海市经信委及徐汇区的支持下，基金会将落地上海开源促进中心、运营开放原子人工智能开源社区，着力打造开源项目孵化与国际合作的重要平台。
+
+围绕开源人工智能领域发展态势，程晓明分享了基金会联合多家单位编制《中国开源发展深度报告（2024）》的洞察。数据显示，2022至2024年，中国技术领域代码贡献总量保持快速增长趋势，人工智能领域表现尤为突出。**2024年，中国人工智能领域的贡献量达到320万次，同比增速29.94%，两年平均增速39.19%，高于全球平均水平。****全球来看，人工智能领域代码量在过去两年显著增长，2024年达到3329万次，同比增速24.97%，两年平均增速27.17%。**当前，人工智能已经与区块链、数据库、操作系统以及云原生领域一同处于全球技术领域贡献的第二层级。人工智能领域的开源项目和社区构建已经成为推动创新、促进技术和产业融合的重要力量。
+
+开源欧拉技术委员会主席胡欣蔚、开放原子开源基金会资深法律专家刘伟围绕开源全栈赋能AI时代、开源许可协议助力AI发展等话题进行了精彩分享。
+
+**开源创新成果精彩呈现**
+
+为更好地激发企业与开发者参与开源的热情，推动开源与人工智能协同发展，基金会设立了开源主题展区。聚焦开源+AI的双向赋能——开源为AI技术提供协同平台与生态根基，AI则推动开源在云边端、全栈技术、框架等领域持续创新，基金会展区集中展示了开源鸿蒙、开源欧拉、openKylin、OpenTenBase及OpenLoong等项目的创新进展与实践案例。
