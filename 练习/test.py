@@ -1,7 +1,7 @@
 import requests
 
 headers = {
-  'Authorization': 'Bearer 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'
+  'Authorization': 'Bearer '
 }
 org = input("Enter the organization path: ")
 
